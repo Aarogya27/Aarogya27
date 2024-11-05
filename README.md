@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aarogya Nepal. I am a student
 - 👀 I’m interested in machine learning, web development, and general computer science principles.
 - 🌱 I’m currently learning machine learning .
+- SAT 1550 🥶🥶
 
 
 <!---
